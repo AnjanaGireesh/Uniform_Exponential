@@ -1,1 +1,2 @@
 # Uniform_Exponential
+This project simulates and analyzes Uniform and Exponential distributions using Python. It provides functionality to generate random data, visualize distributions, and compute statistical properties like mean and variance. Ideal for students and enthusiasts exploring probability distributions, this project includes customizable parameters and detailed visualizations for better understanding.
